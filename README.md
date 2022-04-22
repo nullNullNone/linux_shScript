@@ -1,1 +1,1 @@
-Some usefull Bash scripts here for you.
+Some useful Bash scripts here for you.
